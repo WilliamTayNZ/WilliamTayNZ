@@ -1,6 +1,6 @@
 ## Hello! 👋 My name is William Tay
 
-I'm William, a Computer Science student at the University of Auckland!
+I'm William, a Computer Science major at the University of Auckland!
 
 
 <!--
