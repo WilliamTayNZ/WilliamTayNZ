@@ -25,12 +25,17 @@
 
 ## ⭐ Hobbies and Interests
 
-- `🧩 Data Structures & Algorithms`
-- `💻 Software Engineering`
-- `🏋️ Bodybuilding  `
-- `🎹 Piano & Music`
-- `🏃🏻 Sprinting `
-- `⛷️ Skiing`
+`🧩 Data Structures & Algorithms`
+
+`💻 Software Engineering`
+
+`🏋️ Bodybuilding  `
+
+`🎹 Piano & Music`
+
+`🏃🏻 Sprinting `
+
+`⛷️ Skiing`
 
 <!--
 **WilliamTayNZ/WilliamTayNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
